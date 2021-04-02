@@ -33,6 +33,7 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 6. Finally attach the featherwing to the Hallowing M0 Board
 7. Screw on the RP-SMA Jack to SMA Plug RF Adapter to the SMA Edge Launch
 8. Screw on one of the 915Mhz LoRa Antennas to the adapter
+
 ![Receiver Module Setup](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/tree/main/media/images/Featherwing_JumperWires.HEIC)
 
 #### For Transmitting Module (Feather 32u4)
@@ -42,6 +43,7 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 4. Hot glue the cable to the SMT antenna connector for secure connection (**To make sure the uFL connector does not get ripped off the pads**)
 5. Tape the cable to the board for extra support (**Also to make sure the uFL Connector does not get ripped off the pads**)
 6. Screw on the other 915Mhz LoRA Antenna to the other end of the RP-SMA to uFL cable
+
 ![Transmitter Module Setup](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/tree/main/media/images/Fastened_RF_Cable.HEIC)
 
 ## Programming
