@@ -39,3 +39,14 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 4. Hot glue the cable to the SMT antenna connector for secure connection (**To make sure the uFL connector does not get ripped off the pads**)
 5. Tape the cable to the board for extra support (**Also to make sure the uFL Connector does not get ripped off the pads**)
 6. Screw on the other 915Mhz LoRA Antenna to the other end of the RP-SMA to uFL cable
+
+## Programming
+* Upload the Radio_Transmit code to the Feather 32u4 board
+* Upload the Radio_Receive code to the Hallowing M0 board
+* Verify functionality
+
+*Must have SPI.h, Wire.h, RH_RF95.h, Adafruit_FXAS21002C.h, Adafruit_FXOS8700.h, Adafruit_Sensor.h libraries installed*
+
+## Testing
+* Attach fully charged Li-Po batteries to each of the boards
+* 9dof Data should appear on the Hallowing M0 TFT in almost real-time
