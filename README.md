@@ -45,7 +45,7 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 * Upload the Radio_Receive code to the Hallowing M0 board
 * Verify functionality
 
-*Must have SPI.h, Wire.h, RH_RF95.h, Adafruit_FXAS21002C.h, Adafruit_FXOS8700.h, Adafruit_Sensor.h libraries installed*
+*Must have SPI.h, Wire.h, RH_RF95.h, Adafruit_FXAS21002C.h, Adafruit_FXOS8700.h, Adafruit_Sensor.h, Adafruit_GFX.h, Adafruit_SPITFT.h, Adafruit_SPITFT_Macros.h, gfxfont.h, Adafruit_ST7735.h libraries installed*
 
 ## Testing
 * Attach fully charged Li-Po batteries to each of the boards
