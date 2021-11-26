@@ -35,6 +35,7 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 8. Screw on one of the 915Mhz LoRa Antennas to the adapter
 
 ![Receiver Module Setup](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/tree/main/media/images/Featherwing_JumperWires.HEIC)
+![Receiver Module Schematic](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/blob/main/media/images/Radio_Receive.png)
 
 #### For Transmitting Module (Feather 32u4)
 1. Carefully solder (reflow oven w/ Solder paste method preferred) uFL SMT antenna connector to the uFL copper surface pads
