@@ -46,6 +46,7 @@ To allow a user to monitor pitch, yaw, and roll of a model RC plane real-time mi
 6. Screw on the other 915Mhz LoRA Antenna to the other end of the RP-SMA to uFL cable
 
 ![Transmitter Module Setup](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/tree/main/media/images/Fastened_RF_Cable.HEIC)
+![Transmitter Module Schematic](https://github.com/Engineering-Applied/SAE-Aerodesign-LoRA-9dof/blob/main/media/images/Radio_Transmit.png)
 
 ## Programming
 * Upload the Radio_Transmit code to the Feather 32u4 board
